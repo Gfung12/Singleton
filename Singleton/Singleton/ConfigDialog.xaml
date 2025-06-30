@@ -1,0 +1,38 @@
+﻿<Window x:Class="Singleton.ConfigDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cambiar Configuración" Height="600" Width="400">
+    <ScrollViewer>
+        <StackPanel Margin="10">
+            <TextBlock Text="Moneda:" Margin="0,5"/>
+            <TextBox x:Name="txtCurrency" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Formato Hora (24H/AMPM):" Margin="0,5"/>
+            <TextBox x:Name="txtTimeFormat" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Conexiones Máximas:" Margin="0,5"/>
+            <TextBox x:Name="txtMaxConnections" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Idioma (ES/EN):" Margin="0,5"/>
+            <TextBox x:Name="txtLanguage" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Intervalo AutoGuardado (min):" Margin="0,5"/>
+            <TextBox x:Name="txtAutoSave" Margin="0,0,0,10"/>
+
+            <CheckBox x:Name="chkLogs" Content="Habilitar Logs" Margin="0,5"/>
+
+            <TextBlock Text="Tema (light/dark):" Margin="0,5"/>
+            <TextBox x:Name="txtTheme" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Región:" Margin="0,5"/>
+            <TextBox x:Name="txtRegion" Margin="0,0,0,10"/>
+
+            <CheckBox x:Name="chkBackup" Content="Habilitar Backup" Margin="0,5"/>
+
+            <TextBlock Text="Directorio Backup:" Margin="0,5"/>
+            <TextBox x:Name="txtBackupDir" Margin="0,0,0,20"/>
+
+            <Button Content="Guardar Cambios" Click="Save_Click" Height="30"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

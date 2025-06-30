@@ -1,0 +1,12 @@
+{
+  "DefaultCurrency": "CRC",
+  "TimeFormat": "AMPM",
+  "MaxConnections": 15,
+  "Language": "EN",
+  "AutoSaveInterval": 1,
+  "EnableLogs": true,
+  "Theme": "dark",
+  "Region": "LATAM",
+  "BackupEnabled": true,
+  "BackupDirectory": "./backups"
+}

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\connectionsimulator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\connectionsimulator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\connectionsimulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\connectionsimulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\welcomescreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\welcomescreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\welcomescreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\welcomescreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\configdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\configdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\configdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\configdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\configmnager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\configmnager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|c:\\users\\gokfu\\onedrive\\desktop\\singleton\\singleton\\singleton\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F902F-6B52-4DDB-BA3A-00B30D10FD28}|Singleton\\Singleton.csproj|solutionrelative:singleton\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 220,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomeScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\WelcomeScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Singleton\\WelcomeScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\WelcomeScreen.xaml.cs",
+              "RelativeToolTip": "Singleton\\WelcomeScreen.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:57:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Singleton\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\MainWindow.xaml",
+              "RelativeToolTip": "Singleton\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T06:33:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionSimulator.xaml",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConnectionSimulator.xaml",
+              "RelativeDocumentMoniker": "Singleton\\ConnectionSimulator.xaml",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConnectionSimulator.xaml",
+              "RelativeToolTip": "Singleton\\ConnectionSimulator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T06:59:04.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\config.json",
+              "RelativeDocumentMoniker": "Singleton\\config.json",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\config.json",
+              "RelativeToolTip": "Singleton\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T07:01:58.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionSimulator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConnectionSimulator.xaml.cs",
+              "RelativeDocumentMoniker": "Singleton\\ConnectionSimulator.xaml.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConnectionSimulator.xaml.cs",
+              "RelativeToolTip": "Singleton\\ConnectionSimulator.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:59:44.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomeScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\WelcomeScreen.xaml",
+              "RelativeDocumentMoniker": "Singleton\\WelcomeScreen.xaml",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\WelcomeScreen.xaml",
+              "RelativeToolTip": "Singleton\\WelcomeScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T06:52:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Singleton\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Singleton\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:33:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigDialog.xaml",
+              "RelativeDocumentMoniker": "Singleton\\ConfigDialog.xaml",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigDialog.xaml",
+              "RelativeToolTip": "Singleton\\ConfigDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T06:49:14.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Singleton\\ConfigDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigDialog.xaml.cs",
+              "RelativeToolTip": "Singleton\\ConfigDialog.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:49:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\Configuration.cs",
+              "RelativeDocumentMoniker": "Singleton\\Configuration.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\Configuration.cs",
+              "RelativeToolTip": "Singleton\\Configuration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:33:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigMnager.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigMnager.cs",
+              "RelativeDocumentMoniker": "Singleton\\ConfigMnager.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\Singleton\\Singleton\\Singleton\\ConfigMnager.cs",
+              "RelativeToolTip": "Singleton\\ConfigMnager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:35:22.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 56,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

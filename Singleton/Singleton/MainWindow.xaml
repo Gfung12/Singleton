@@ -1,0 +1,14 @@
+﻿<Window x:Class="Singleton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Configuration Manager" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <Button Content="Ver Configuración Actual" Margin="5" Click="ViewConfig_Click" Height="40"/>
+            <Button Content="Cambiar Configuración" Margin="5" Click="ChangeConfig_Click" Height="40"/>
+            <Button Content="Panel de Bienvenida" Margin="5" Click="WelcomeScreen_Click" Height="40"/>
+            <Button Content="Simulador de Conexiones" Margin="5" Click="ConnectionSimulator_Click" Height="40"/>
+            <Button Content="Salir" Margin="5" Click="Exit_Click" Height="40"/>
+        </StackPanel>
+    </Grid>
+</Window>
